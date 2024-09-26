@@ -23,9 +23,15 @@
 <br>
 <br>
 - 🔭 I’m currently working on Animating rock papper scissors in C (with like hash symboles)
+<br>
 - 🌱 I’m currently learning Databases and MySQL
+<br>
 - 👯 I’m looking to collaborate on Denys
+<br>
 - 🤔 I’m looking for help with Animating in C 
+<br>
 - 💬 Ask me about Anyting i will do my best to answer
+<br>
 - 📫 How to reach me: 
+<br>
 - ⚡ Fun fact: I have a pet snake and gecko
