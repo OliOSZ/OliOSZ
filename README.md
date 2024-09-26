@@ -2,14 +2,12 @@
 <br>
 <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+<br>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=css" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=python" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=c" /></a>
-<br>
-<br>
-Most Used Languages in my projects: 
 <br>
 <br>
 <br>
