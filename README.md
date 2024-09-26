@@ -1,5 +1,7 @@
 ## Hi there 👋 (WiP) 👀
 <br>
+<p>Hello my name is Oliver and im a IT-developer in learing <br>
+Here you will se a bit about me and my languages🤓</p>
 <br>
 <h3> Most Used Languages in my projects: </h3>
 <br>
