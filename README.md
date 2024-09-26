@@ -18,7 +18,7 @@ Here you will se a bit about me and my languages🤓</p>
 <picture>
 <source
     srcset="https://github-readme-stats.vercel.app/api?username=OliOSZ&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
 <img src="https://github-readme-stats.vercel.app/api?username=OliOSZ&show_icons=true" />
 </picture>
