@@ -29,7 +29,7 @@ Here you will se a bit about me and my languages🤓</p>
 - 📫 How to reach me: coming soon :)
 <br>
 - ⚡ Fun fact: I have a pet snake and gecko
-
+<br>
 <picture>
 <source
     srcset="https://github-readme-stats.vercel.app/api?username=OliOSZ&show_icons=true"
@@ -37,4 +37,5 @@ Here you will se a bit about me and my languages🤓</p>
   />
 <img src="https://github-readme-stats.vercel.app/api?username=OliOSZ&show_icons=true" />
 </picture>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliOSZ&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
