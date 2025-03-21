@@ -20,7 +20,7 @@ Here you will se a bit about me and my languages🤓</p>
 <br>
 - 🌱 I’m currently learning Databases and MySQL
 <br>
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on a game project
 <br>
 - 🤔 I’m looking for help with node
 <br>
