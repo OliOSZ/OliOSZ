@@ -3,7 +3,7 @@
 <p>Hello my name is Oliver and im a IT-developer in learing <br>
 Here you will se a bit about me and my languages🤓</p>
 <br>
-<h3> Most Used Languages in my projects: </h3>
+<h3> Most Used Languages and stuff: </h3>
 <br>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Creact%2Cvite%2Cjs%2Cts%2Chtml%2Ccss%2Ctailwind%2Cpy%2Cflask%2Cmd%2Cmysql%2Cgit%2Cgithub%2Craspberrypi%2Clinux%2Cvscode%2Cfigma%2Cps%2Cai%2Cpr%2Cxd&perline=15&theme=dark">
