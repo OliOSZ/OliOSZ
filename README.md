@@ -16,7 +16,7 @@ Here you will se a bit about me and my languages🤓</p>
 
 <br>
 <br>
-- 🔭 I’m currently working on Animating rock papper scissors in C (with like hash symboles)
+- 🔭 I’m currently working on a game portal webpage where devs can post games
 <br>
 - 🌱 I’m currently learning Databases and MySQL
 <br>
